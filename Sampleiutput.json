@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Brianna Williams",
+            "title": "'So, you're Patrick Mahomes?' - Cowboys CB Trevon Diggs' son had a funny way of greeting Dak Prescott - ESPN",
+            "description": "When the Cowboys quarterback walked through the door, Diggs' son seemed to be under the impression that Prescott was the signal-caller for the Kansas City Chiefs.",
+            "url": "https://www.espn.com/nfl/story/_/id/32168338/so-patrick-mahomes-cowboys-cb-trevon-diggs-son-had-funny-way-greeting-dak-prescott",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0908%2Fr906098_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-09-08T04:42:06Z",
+            "content": "The final episode of HBO's 2021 season of \"Hard Knocks\" featured a particularly precious moment.\r\nAaiden Diggs, son of Cowboys cornerback Trevon Diggs and nephew of Buffalo Bills receiver Stefon Digg… [+1077 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt, CNN",
+            "title": "Animals are 'shape shifting' in response to climate change - CNN",
+            "description": "Some warm-blooded animals are experiencing shifts in their body shapes, likely as a response to the pressures of climate change, according to a new review of existing research.",
+            "url": "https://www.cnn.com/2021/09/07/world/animals-climate-change-shape-shift-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210907082028-animals-climate-change-shape-shift-scn-super-tease.jpg",
+            "publishedAt": "2021-09-07T15:00:00Z",
+            "content": "(CNN)Some warm-blooded animals are experiencing shifts in their body shapes, likely as a response to the pressures of climate change, according to a new review of existing research. \r\nAnimals are get… [+2933 chars]"
+        }
+    ]
+}
